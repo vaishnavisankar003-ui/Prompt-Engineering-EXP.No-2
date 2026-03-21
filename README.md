@@ -23,3 +23,4 @@ Your goal is to determine which combination of prompting technique + platform pr
 OUTPUT:
 
 RESULT:
+Thus we have successfully evaluated and compared the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization
